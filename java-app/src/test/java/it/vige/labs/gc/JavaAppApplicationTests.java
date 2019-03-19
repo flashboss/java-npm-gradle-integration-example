@@ -1,4 +1,4 @@
-package eu.xword.labs.gc;
+package it.vige.labs.gc;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

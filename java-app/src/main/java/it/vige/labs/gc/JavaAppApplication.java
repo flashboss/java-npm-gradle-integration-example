@@ -1,4 +1,4 @@
-package eu.xword.labs.gc;
+package it.vige.labs.gc;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
