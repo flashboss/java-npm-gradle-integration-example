@@ -12,6 +12,7 @@ buildscript {
 }
 
 apply plugin: 'base'
+apply plugin: 'eclipse'
 apply plugin: 'com.moowork.node' // gradle-node-plugin
 
 node {

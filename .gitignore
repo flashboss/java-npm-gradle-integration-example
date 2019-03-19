@@ -1,6 +1,7 @@
 .gradle
 .project
 /build/
+bin
 !gradle/wrapper/gradle-wrapper.jar
 
 ### IntelliJ IDEA ###

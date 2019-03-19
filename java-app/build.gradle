@@ -30,3 +30,13 @@ dependencies {
 
     runtimeOnly project(':npm-app')
 }
+
+eclipse {
+    classpath {
+        file {
+            whenMerged {
+                entries.removeAll { it.path == '/npm-app' }
+            }
+        }
+    }
+}
